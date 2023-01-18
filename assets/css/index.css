@@ -1,6 +1,6 @@
 :root {
   --primary-color: #0c373d;
-  --secondary-color: #198754;
+  --secondary-color: #000000;
   --light-color: #f3f7fa;
   --warining-color: #fcc96f;
   --hover-warning-color: #e9ab40;
@@ -64,9 +64,9 @@ body {
 }
 
 #hero {
-  background-image: url("../images/home-bg.jpg");
+  background-image: url("../images/home.jpg");
   background-attachment: fixed;
-  background-position: center;
+  background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
